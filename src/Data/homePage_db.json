@@ -1,0 +1,128 @@
+[
+    {
+        "id": 0,
+        "name":  "Ranjithame",
+        "title": "Recently Played",
+        "imagePath": "ranjithame.jpeg"
+    },
+    {
+        "id": 1,
+        "name":  "Ennai Vittu",
+        "title": "Hits Different",
+        "imagePath": "ennai-vittu.jpg"
+    },
+    {
+        "id": 2,
+        "name":  "Bodhai Kaname",
+        "title": "Hits Different",
+        "imagePath": "bodhai.jpg"
+    },
+    {
+        "id": 3,
+        "name":  "Darshana",
+        "title": "Hits Different",
+        "imagePath": "darshana.jpg"
+    },
+    {
+        "id": 4,
+        "name":  "Hey Sita",
+        "title": "Hits Different",
+        "imagePath": "heySita.jpg"
+    },
+    {
+        "id": 5,
+        "name":  "Hosanna",
+        "title": "Hits Different",
+        "imagePath": "hosana.jpg"
+    },
+    {
+        "id": 6,
+        "name":  "Kaadhal En Kaviye",
+        "title": "Recommended Artist Radio",
+        "imagePath": "kaadhal_en_kavi.jpg"
+    },
+    {
+        "id": 7,
+        "name":  "Kaalathukkum Nee Venum",
+        "title": "Recommended Artist Radio",
+        "imagePath": "kaalathukum.jpg"
+    },
+    {
+        "id": 8,
+        "name":  "Kaarkuzhal Kadavaiye",
+        "title": "Recommended Artist Radio",
+        "imagePath": "kaarkulal.jpg"
+    },
+    {
+        "id": 9,
+        "name":  "kesariya",
+        "title": "Recommended Artist Radio",
+        "imagePath": "kesariya.jpg"
+    },
+    {
+        "id": 10,
+        "name":  "Malare",
+        "title": "Recommended Artist Radio",
+        "imagePath": "malare.jpg"
+    },
+    {
+        "id": 11,
+        "name":  "Marakkavillayae",
+        "title": "Recommended Artist Radio",
+        "imagePath": "marakavilleye.jpg"
+    },
+    {
+        "id": 12,
+        "name":  "Master the blaster",
+        "title": "Recommended Artist Radio",
+        "imagePath": "master.jpg"
+    },
+    {
+        "id": 13,
+        "name":  "Mental Manadhil",
+        "title": "Recommended Artist Radio",
+        "imagePath": "mental.jpg"
+    },
+    {
+        "id": 14,
+        "name":  "Mudhal Nee Mudivum Nee",
+        "title": "Recommended Artist Radio",
+        "imagePath": "mudhal.jpg"
+    },
+    {
+        "id": 15,
+        "name":  "Nallai Allai",
+        "title": "Recommended Artist Radio",
+        "imagePath": "nallai.jpg"
+    },
+    {
+        "id": 16,
+        "name":  "Oh Oh (Uyire Uyire)",
+        "title": "Recommended Artist Radio",
+        "imagePath": "ohoh.jpg"
+    },
+    {
+        "id": 17,
+        "name":  "Perfect",
+        "title": "Recommended Artist Radio",
+        "imagePath": "perfect.jpg"
+    },
+    {
+        "id": 18,
+        "name":  "Ponni Nadhi",
+        "title": "Recommended Artist Radio",
+        "imagePath": "ponni.jpg"
+    },
+    {
+        "id": 19,
+        "name":  "Sita Kalyanam",
+        "title": "Recommended Artist Radio",
+        "imagePath": "sitaKalyanam.jpg"
+    },
+    {
+        "id": 20,
+        "name":  "Maruvaarthai",
+        "title": "Recommended Artist Radio",
+        "imagePath": "visiri.jpg"
+    }
+]

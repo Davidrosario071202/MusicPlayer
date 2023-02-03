@@ -1,0 +1,132 @@
+header {
+  padding: 20px;
+}
+
+.languages {
+  padding: 20px;
+}
+
+.autoplay {
+  padding: 20px;
+}
+
+.audio-quality {
+  padding: 20px;
+}
+
+.personalisation {
+  padding: 20px;
+}
+
+#settings-container {
+  color: white;
+}
+
+.settings-container::-webkit-scrollbar {
+  display: none;
+}
+
+#settings-menu-row {
+  padding: 8px;
+  height: 25%;
+}
+
+.inner-container {
+  height: inherit;
+  width: inherit;
+  margin-left: 6%;
+  margin-top: 1%;
+}
+
+.top {
+  color: white;
+  margin: 10px;
+}
+
+.top-text {
+  color: white;
+  width: 85.25%;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  margin-left: 4%;
+}
+
+.top-element {
+  color: white;
+}
+
+.top-pic {
+  display: contents !important;
+}
+
+.recent {
+  color: white;
+}
+
+.avatar {
+  float: right;
+}
+
+.song {
+  color: white;
+}
+
+.wish {
+  color: white;
+}
+
+#row {
+  margin-top: 20px;
+}
+
+#setting-subtitles {
+  height: 25%;
+    padding: 2%;
+    padding-left: 1%;
+  }
+  
+  .form-root {
+    
+    box-shadow: rgba(0, 0, 0, 1) 0px 15px 25px, rgba(0, 0, 0, 1) 0px 5px 10px;
+    background-color: aliceblue;
+    padding: 40px;
+    border-radius: 30px;
+  height: 20%;
+  width: 60% !important;
+}
+
+#music-slider {
+  width: 100%;
+  margin-top: 5%;
+}
+
+#music-div-3 {
+  margin-top: 2%;
+}
+
+#outerContainer {
+
+  height: 100vh;  
+  background: rgba(0,0,0,0.3) url("./Pictures/siginbg.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: darken;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#paper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu {
+
+  text-decoration: none;
+}
